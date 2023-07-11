@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1672491015 source:c:\users\dell\desktop\codeblock projects\final project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<math.h>
+	<string.h>
+
